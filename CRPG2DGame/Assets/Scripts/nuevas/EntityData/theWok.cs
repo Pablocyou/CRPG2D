@@ -18,7 +18,4 @@ public class theWok : DatosEntidad
     {
         
     }
-
-    //sobreescribimos el test de DatosEntidad
-    
 }
