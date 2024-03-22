@@ -25,6 +25,16 @@ public class IsometricPlayerMovementController : MonoBehaviour
         float verticalInput = Input.GetAxis("Vertical");
         Vector2 inputVector = new Vector2(horizontalInput, verticalInput);
         inputVector = Vector2.ClampMagnitude(inputVector, 1);
+
+        if (Input.GetButton("Fire1"))
+        {
+            var mousePos = Input.mousePosition;
+            mousePos.x -= Screen.width / 2; mousePos.y -= Screen.height / 2;
+
+            inputVector = new Vector2(mousePos.x, mousePos.y);
+            inputVector = Vector2.ClampMagnitude(inputVector, 1);
+        }
+
         Vector2 movement = inputVector * movementSpeed;
         Vector2 newPos = currentPos + movement * Time.fixedDeltaTime;
         isoRenderer.SetDirection(movement);
