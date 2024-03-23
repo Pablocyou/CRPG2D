@@ -22,4 +22,7 @@ public abstract class DatosEntidad : MonoBehaviour
 
     //esto es lo que debes hacer un override para definir que accion concreta va a tener el gameobject cuando le das click
     public abstract void inter();
+
+    //esto es lo que debes hacer un override para definir que texto quieres que se muestre cuando interactuas
+    public abstract string bubble();
 }

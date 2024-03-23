@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class IsometricPlayerMovementController : MonoBehaviour
@@ -7,13 +8,21 @@ public class IsometricPlayerMovementController : MonoBehaviour
 
     public float movementSpeed = 1f;
     IsometricCharacterRenderer isoRenderer;
-
+    public TMP_Text TextComponent;
+    public GameObject ThoughtsGameObj;
     Rigidbody2D rbody;
 
     private void Awake()
     {
         rbody = GetComponent<Rigidbody2D>();
         isoRenderer = GetComponentInChildren<IsometricCharacterRenderer>();
+    }
+
+    public void think(string bubble)
+    {
+        ThoughtsGameObj.SetActive(true);
+        TextComponent.text = bubble;
+        StartCoroutine(stopThoughts());
     }
 
 
@@ -39,5 +48,13 @@ public class IsometricPlayerMovementController : MonoBehaviour
         Vector2 newPos = currentPos + movement * Time.fixedDeltaTime;
         isoRenderer.SetDirection(movement);
         rbody.MovePosition(newPos);
+    }
+
+
+    IEnumerator stopThoughts()
+    {
+        yield return new WaitForSeconds(4);
+        TextComponent.text = "";
+        ThoughtsGameObj.SetActive(true);
     }
 }

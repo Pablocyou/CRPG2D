@@ -1,10 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class testInteract : MonoBehaviour, IPointerDownHandler, IPointerEnterHandler, IPointerExitHandler
-
 {
     private Color originalColor;
     private void Start()
@@ -16,6 +16,7 @@ public class testInteract : MonoBehaviour, IPointerDownHandler, IPointerEnterHan
     public void OnPointerDown(PointerEventData eventData)
     {
         float distance = Vector3.Distance(this.transform.position, GameObject.Find("Player_Isometric_Witch").transform.position);
+        GameObject.Find("Player_Isometric_Witch").GetComponent<IsometricPlayerMovementController>().think("HOLA");
         if (distance < 1)
         {
 
@@ -31,9 +32,15 @@ public class testInteract : MonoBehaviour, IPointerDownHandler, IPointerEnterHan
             Debug.Log("Clicked: " + eventData.pointerCurrentRaycast.gameObject.GetComponent<DatosEntidad>().test);
 
             //esto llama al metodo que hayas definido como interaccion en la clase concreta. 
-            eventData.pointerCurrentRaycast.gameObject.GetComponent<DatosEntidad>().inter();
+            //eventData.pointerCurrentRaycast.gameObject.GetComponent<DatosEntidad>().inter();
+            string bubble = eventData.pointerCurrentRaycast.gameObject.GetComponent<DatosEntidad>().bubble();
+            if (bubble != null && bubble != "") 
+            {
+                //GameObject.Find("Player_Isometric_Witch").GetComponent<IsometricPlayerMovementController>().think(bubble);
+            }
         }
     }
+
 
     //Detect if the Cursor starts to pass over the GameObject
     public void OnPointerEnter(PointerEventData pointerEventData)

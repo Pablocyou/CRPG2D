@@ -26,4 +26,9 @@ public class theWok : DatosEntidad
         //por ejemplo, cambiamos de escena asi
         SceneManager.LoadScene("Scene_Biome_Desert");
     }
+
+    public override string bubble()
+    {
+        return "ROCA";
+    }
 }
