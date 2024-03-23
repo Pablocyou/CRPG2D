@@ -2,7 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Transactions;
+using UnityEditor.SearchService;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class theWok : DatosEntidad
 {
@@ -17,5 +19,11 @@ public class theWok : DatosEntidad
     void Update()
     {
         
+    }
+
+    public override void inter() {
+        Debug.Log("oleeeeeeeeeeeeee");
+        //por ejemplo, cambiamos de escena asi
+        SceneManager.LoadScene("Scene_Biome_Desert");
     }
 }

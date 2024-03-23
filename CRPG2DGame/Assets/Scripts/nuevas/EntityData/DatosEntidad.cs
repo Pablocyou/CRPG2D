@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DatosEntidad : MonoBehaviour
+public abstract class DatosEntidad : MonoBehaviour
 {
 
     public string test = "hola";
@@ -19,4 +19,7 @@ public class DatosEntidad : MonoBehaviour
     {
         
     }
+
+    //esto es lo que debes hacer un override para definir que accion concreta va a tener el gameobject cuando le das click
+    public abstract void inter();
 }
