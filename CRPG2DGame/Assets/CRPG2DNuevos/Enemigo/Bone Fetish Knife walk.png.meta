@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_0
+      name: Bone Fetish Knife walk N00
       rect:
         serializedVersion: 2
         x: 0
@@ -118,7 +118,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -131,7 +131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_1
+      name: Bone Fetish Knife walk N01
       rect:
         serializedVersion: 2
         x: 101
@@ -139,7 +139,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -152,7 +152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_2
+      name: Bone Fetish Knife walk N02
       rect:
         serializedVersion: 2
         x: 202
@@ -160,7 +160,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,7 +173,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_3
+      name: Bone Fetish Knife walk N03
       rect:
         serializedVersion: 2
         x: 303
@@ -181,7 +181,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,7 +194,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_4
+      name: Bone Fetish Knife walk N04
       rect:
         serializedVersion: 2
         x: 404
@@ -202,7 +202,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,7 +215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_5
+      name: Bone Fetish Knife walk N05
       rect:
         serializedVersion: 2
         x: 505
@@ -223,7 +223,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,7 +236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_6
+      name: Bone Fetish Knife walk NE00
       rect:
         serializedVersion: 2
         x: 0
@@ -244,7 +244,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_7
+      name: Bone Fetish Knife walk NE01
       rect:
         serializedVersion: 2
         x: 101
@@ -265,7 +265,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,7 +278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_8
+      name: Bone Fetish Knife walk NE02
       rect:
         serializedVersion: 2
         x: 202
@@ -286,7 +286,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -299,7 +299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_9
+      name: Bone Fetish Knife walk NE03
       rect:
         serializedVersion: 2
         x: 303
@@ -307,7 +307,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_10
+      name: Bone Fetish Knife walk NE04
       rect:
         serializedVersion: 2
         x: 404
@@ -328,7 +328,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_11
+      name: Bone Fetish Knife walk NE05
       rect:
         serializedVersion: 2
         x: 505
@@ -349,7 +349,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_12
+      name: Bone Fetish Knife walk E00
       rect:
         serializedVersion: 2
         x: 0
@@ -370,7 +370,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -383,7 +383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_13
+      name: Bone Fetish Knife walk E01
       rect:
         serializedVersion: 2
         x: 101
@@ -391,7 +391,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -404,7 +404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_14
+      name: Bone Fetish Knife walk E02
       rect:
         serializedVersion: 2
         x: 202
@@ -412,7 +412,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -425,7 +425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_15
+      name: Bone Fetish Knife walk E03
       rect:
         serializedVersion: 2
         x: 303
@@ -433,7 +433,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -446,7 +446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_16
+      name: Bone Fetish Knife walk E04
       rect:
         serializedVersion: 2
         x: 404
@@ -454,7 +454,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -467,7 +467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_17
+      name: Bone Fetish Knife walk E05
       rect:
         serializedVersion: 2
         x: 505
@@ -475,7 +475,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -488,7 +488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_18
+      name: Bone Fetish Knife walk SE00
       rect:
         serializedVersion: 2
         x: 0
@@ -496,7 +496,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -509,7 +509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_19
+      name: Bone Fetish Knife walk SE01
       rect:
         serializedVersion: 2
         x: 101
@@ -517,7 +517,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -530,7 +530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_20
+      name: Bone Fetish Knife walk SE02
       rect:
         serializedVersion: 2
         x: 202
@@ -538,7 +538,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -551,7 +551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_21
+      name: Bone Fetish Knife walk SE03
       rect:
         serializedVersion: 2
         x: 303
@@ -559,7 +559,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -572,7 +572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_22
+      name: Bone Fetish Knife walk SE04
       rect:
         serializedVersion: 2
         x: 404
@@ -580,7 +580,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -593,7 +593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_23
+      name: Bone Fetish Knife walk SE05
       rect:
         serializedVersion: 2
         x: 505
@@ -601,7 +601,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -614,7 +614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_24
+      name: Bone Fetish Knife walk S00
       rect:
         serializedVersion: 2
         x: 0
@@ -622,7 +622,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -635,7 +635,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_25
+      name: Bone Fetish Knife walk S01
       rect:
         serializedVersion: 2
         x: 101
@@ -643,7 +643,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -656,7 +656,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_26
+      name: Bone Fetish Knife walk S02
       rect:
         serializedVersion: 2
         x: 202
@@ -664,7 +664,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -677,7 +677,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_27
+      name: Bone Fetish Knife walk S03
       rect:
         serializedVersion: 2
         x: 303
@@ -685,7 +685,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -698,7 +698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_28
+      name: Bone Fetish Knife walk S04
       rect:
         serializedVersion: 2
         x: 404
@@ -706,7 +706,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -719,7 +719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_29
+      name: Bone Fetish Knife walk S05
       rect:
         serializedVersion: 2
         x: 505
@@ -727,7 +727,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -740,7 +740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_30
+      name: Bone Fetish Knife walk SW00
       rect:
         serializedVersion: 2
         x: 0
@@ -748,7 +748,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -761,7 +761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_31
+      name: Bone Fetish Knife walk SW01
       rect:
         serializedVersion: 2
         x: 101
@@ -769,7 +769,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -782,7 +782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_32
+      name: Bone Fetish Knife walk SW02
       rect:
         serializedVersion: 2
         x: 202
@@ -790,7 +790,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -803,7 +803,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_33
+      name: Bone Fetish Knife walk SW03
       rect:
         serializedVersion: 2
         x: 303
@@ -811,7 +811,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -824,7 +824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_34
+      name: Bone Fetish Knife walk SW04
       rect:
         serializedVersion: 2
         x: 404
@@ -832,7 +832,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -845,7 +845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_35
+      name: Bone Fetish Knife walk SW05
       rect:
         serializedVersion: 2
         x: 505
@@ -853,7 +853,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -866,7 +866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_36
+      name: Bone Fetish Knife walk W00
       rect:
         serializedVersion: 2
         x: 0
@@ -874,7 +874,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -887,7 +887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_37
+      name: Bone Fetish Knife walk W01
       rect:
         serializedVersion: 2
         x: 101
@@ -895,7 +895,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -908,7 +908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_38
+      name: Bone Fetish Knife walk W02
       rect:
         serializedVersion: 2
         x: 202
@@ -916,7 +916,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -929,7 +929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_39
+      name: Bone Fetish Knife walk W03
       rect:
         serializedVersion: 2
         x: 303
@@ -937,7 +937,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -950,7 +950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_40
+      name: Bone Fetish Knife walk W04
       rect:
         serializedVersion: 2
         x: 404
@@ -958,7 +958,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -971,7 +971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_41
+      name: Bone Fetish Knife walk W05
       rect:
         serializedVersion: 2
         x: 505
@@ -979,7 +979,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -992,7 +992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_42
+      name: Bone Fetish Knife walk NW00
       rect:
         serializedVersion: 2
         x: 0
@@ -1000,7 +1000,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1013,7 +1013,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_43
+      name: Bone Fetish Knife walk NW01
       rect:
         serializedVersion: 2
         x: 101
@@ -1021,7 +1021,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1034,7 +1034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_44
+      name: Bone Fetish Knife walk NW02
       rect:
         serializedVersion: 2
         x: 202
@@ -1042,7 +1042,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1055,7 +1055,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_45
+      name: Bone Fetish Knife walk NW03
       rect:
         serializedVersion: 2
         x: 303
@@ -1063,7 +1063,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1076,7 +1076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_46
+      name: Bone Fetish Knife walk NW04
       rect:
         serializedVersion: 2
         x: 404
@@ -1084,7 +1084,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1097,7 +1097,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bone Fetish Knife walk_47
+      name: Bone Fetish Knife walk NW05
       rect:
         serializedVersion: 2
         x: 505
@@ -1105,7 +1105,7 @@ TextureImporter:
         width: 101.833336
         height: 91.5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1128,54 +1128,54 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bone Fetish Knife walk_0: 605475471
-      Bone Fetish Knife walk_1: 2010397289
-      Bone Fetish Knife walk_10: 22954590
-      Bone Fetish Knife walk_11: -650544056
-      Bone Fetish Knife walk_12: 889346236
-      Bone Fetish Knife walk_13: -1929276698
-      Bone Fetish Knife walk_14: 1780948407
-      Bone Fetish Knife walk_15: 1255772145
-      Bone Fetish Knife walk_16: -1125508466
-      Bone Fetish Knife walk_17: -860603069
-      Bone Fetish Knife walk_18: -1988745196
-      Bone Fetish Knife walk_19: -675481793
-      Bone Fetish Knife walk_2: -2142561275
-      Bone Fetish Knife walk_20: -1568457858
-      Bone Fetish Knife walk_21: -1869819209
-      Bone Fetish Knife walk_22: -807708911
-      Bone Fetish Knife walk_23: 1561893059
-      Bone Fetish Knife walk_24: 1265433717
-      Bone Fetish Knife walk_25: -1353440937
-      Bone Fetish Knife walk_26: 354968401
-      Bone Fetish Knife walk_27: -1052099315
-      Bone Fetish Knife walk_28: -1522436080
-      Bone Fetish Knife walk_29: 1795443486
-      Bone Fetish Knife walk_3: -1121794884
-      Bone Fetish Knife walk_30: -213250347
-      Bone Fetish Knife walk_31: -824332398
-      Bone Fetish Knife walk_32: -1870677928
-      Bone Fetish Knife walk_33: 284650800
-      Bone Fetish Knife walk_34: 121746799
-      Bone Fetish Knife walk_35: 1195706480
-      Bone Fetish Knife walk_36: -1435879207
-      Bone Fetish Knife walk_37: -1386858309
-      Bone Fetish Knife walk_38: 882074425
-      Bone Fetish Knife walk_39: 1833376404
-      Bone Fetish Knife walk_4: -1826182808
-      Bone Fetish Knife walk_40: -527074029
-      Bone Fetish Knife walk_41: -1371781015
-      Bone Fetish Knife walk_42: 534673576
-      Bone Fetish Knife walk_43: -860633029
-      Bone Fetish Knife walk_44: -1150013539
-      Bone Fetish Knife walk_45: 1343757055
-      Bone Fetish Knife walk_46: -425736194
-      Bone Fetish Knife walk_47: -1252858099
-      Bone Fetish Knife walk_5: 1058252094
-      Bone Fetish Knife walk_6: 1859349256
-      Bone Fetish Knife walk_7: 1956053973
-      Bone Fetish Knife walk_8: 1148847895
-      Bone Fetish Knife walk_9: 829640421
+      Bone Fetish Knife walk E00: 889346236
+      Bone Fetish Knife walk E01: -1929276698
+      Bone Fetish Knife walk E02: 1780948407
+      Bone Fetish Knife walk E03: 1255772145
+      Bone Fetish Knife walk E04: -1125508466
+      Bone Fetish Knife walk E05: -860603069
+      Bone Fetish Knife walk N00: 605475471
+      Bone Fetish Knife walk N01: 2010397289
+      Bone Fetish Knife walk N02: -2142561275
+      Bone Fetish Knife walk N03: -1121794884
+      Bone Fetish Knife walk N04: -1826182808
+      Bone Fetish Knife walk N05: 1058252094
+      Bone Fetish Knife walk NE00: 1859349256
+      Bone Fetish Knife walk NE01: 1956053973
+      Bone Fetish Knife walk NE02: 1148847895
+      Bone Fetish Knife walk NE03: 829640421
+      Bone Fetish Knife walk NE04: 22954590
+      Bone Fetish Knife walk NE05: -650544056
+      Bone Fetish Knife walk NW00: 534673576
+      Bone Fetish Knife walk NW01: -860633029
+      Bone Fetish Knife walk NW02: -1150013539
+      Bone Fetish Knife walk NW03: 1343757055
+      Bone Fetish Knife walk NW04: -425736194
+      Bone Fetish Knife walk NW05: -1252858099
+      Bone Fetish Knife walk S00: 1265433717
+      Bone Fetish Knife walk S01: -1353440937
+      Bone Fetish Knife walk S02: 354968401
+      Bone Fetish Knife walk S03: -1052099315
+      Bone Fetish Knife walk S04: -1522436080
+      Bone Fetish Knife walk S05: 1795443486
+      Bone Fetish Knife walk SE00: -1988745196
+      Bone Fetish Knife walk SE01: -675481793
+      Bone Fetish Knife walk SE02: -1568457858
+      Bone Fetish Knife walk SE03: -1869819209
+      Bone Fetish Knife walk SE04: -807708911
+      Bone Fetish Knife walk SE05: 1561893059
+      Bone Fetish Knife walk SW00: -213250347
+      Bone Fetish Knife walk SW01: -824332398
+      Bone Fetish Knife walk SW02: -1870677928
+      Bone Fetish Knife walk SW03: 284650800
+      Bone Fetish Knife walk SW04: 121746799
+      Bone Fetish Knife walk SW05: 1195706480
+      Bone Fetish Knife walk W00: -1435879207
+      Bone Fetish Knife walk W01: -1386858309
+      Bone Fetish Knife walk W02: 882074425
+      Bone Fetish Knife walk W03: 1833376404
+      Bone Fetish Knife walk W04: -527074029
+      Bone Fetish Knife walk W05: -1371781015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
