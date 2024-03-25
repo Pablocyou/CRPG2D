@@ -443,6 +443,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 1.1
+  TextComponent: {fileID: 0}
+  ThoughtsGameObj: {fileID: 0}
 --- !u!1 &4873873512109249108
 GameObject:
   m_ObjectHideFlags: 0
