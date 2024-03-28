@@ -459,10 +459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   test: hola
-  hitPoints: 5
-  maxHitPoints: 10
-  actionPoints: 5
-  maxActionPoints: 10
+  hitPoints: {fileID: 0}
 --- !u!1 &4873873512109249108
 GameObject:
   m_ObjectHideFlags: 0
