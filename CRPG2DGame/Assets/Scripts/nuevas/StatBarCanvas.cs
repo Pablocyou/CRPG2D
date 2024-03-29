@@ -6,13 +6,13 @@ using UnityEngine.UI;
 
 public class StatBarCanvas : MonoBehaviour
 {
-    public StatPoints hitPoints;
+    public StatPoints statPoints;
     public Image meterImage;
     public TextMeshProUGUI hpText;
 
     void Update()
     {
-        meterImage.fillAmount = (float) hitPoints.currentValue / hitPoints.maxValue;
-        hpText.text = hitPoints.currentValue.ToString() + "/" + hitPoints.maxValue;
+        meterImage.fillAmount = (float)statPoints.currentValue / statPoints.maxValue;
+        hpText.text = statPoints.currentValue.ToString() + "/" + statPoints.maxValue;
     }
 }

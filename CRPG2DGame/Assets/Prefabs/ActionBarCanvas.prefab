@@ -553,7 +553,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 018470072cfe94143adf33ab2aec92bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPoints: {fileID: 11400000, guid: 48d272feb0b0eb346a16713700b8e50b, type: 2}
+  statPoints: {fileID: 11400000, guid: 48d272feb0b0eb346a16713700b8e50b, type: 2}
   meterImage: {fileID: 6539825595171633318}
   hpText: {fileID: 1444707070185127636}
 --- !u!1 &8594958591948099615
