@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class HealthBar : MonoBehaviour
+public class StatBarCanvas : MonoBehaviour
 {
     public StatPoints hitPoints;
     public Image meterImage;
