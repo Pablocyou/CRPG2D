@@ -7,7 +7,7 @@ public abstract class DatosEntidad : MonoBehaviour
 {
 
     public string test = "hola";
-    public HitPoints hitPoints;
+    public StatPoints hitPoints;
 
     // Start is called before the first frame update
     void Start()

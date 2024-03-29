@@ -17998,7 +17998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 018470072cfe94143adf33ab2aec92bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPoints: {fileID: 11400000, guid: 59525264dc0176e45ac8b6c85a110e96, type: 2}
+  hitPoints: {fileID: 11400000, guid: d10693cee24cd76428eec4b775e719eb, type: 2}
   meterImage: {fileID: 740016353}
   hpText: {fileID: 725230907}
 --- !u!1001 &2048416127

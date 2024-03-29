@@ -6,13 +6,13 @@ using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
-    public HitPoints hitPoints;
+    public StatPoints hitPoints;
     public Image meterImage;
     public TextMeshProUGUI hpText;
 
     void Update()
     {
-        meterImage.fillAmount = (float) hitPoints.health / hitPoints.maxHealth;
-        hpText.text = hitPoints.health.ToString() + "/" + hitPoints.maxHealth;
+        meterImage.fillAmount = (float) hitPoints.currentValue / hitPoints.maxValue;
+        hpText.text = hitPoints.currentValue.ToString() + "/" + hitPoints.maxValue;
     }
 }
