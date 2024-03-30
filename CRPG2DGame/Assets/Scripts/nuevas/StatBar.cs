@@ -4,15 +4,16 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class StatBarCanvas : MonoBehaviour
+public class StatBar : MonoBehaviour
 {
     public StatPoints statPoints;
     public Image meterImage;
-    public TextMeshProUGUI hpText;
+    public TextMeshProUGUI statNumber;
 
     void Update()
     {
         meterImage.fillAmount = (float)statPoints.currentValue / statPoints.maxValue;
-        hpText.text = statPoints.currentValue.ToString() + "/" + statPoints.maxValue;
+        statNumber.text = statPoints.currentValue.ToString() + "/" + statPoints.maxValue;
     }
+
 }
