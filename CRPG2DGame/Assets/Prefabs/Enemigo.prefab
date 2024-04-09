@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7594789875785917275}
   - component: {fileID: 8150107865476003806}
   - component: {fileID: 6871556697224327009}
+  - component: {fileID: 5858924743599378807}
   m_Layer: 0
   m_Name: Enemigo
   m_TagString: Enemy
@@ -170,3 +171,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &5858924743599378807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2594828090740977004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 361f0b18a8d6c284a8f792451826dca0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  test: hola
+  hitPoints: {fileID: 11400000, guid: 88175a28f7e87ae4fbbd53c4f42b3952, type: 2}
+  actionPoints: {fileID: 11400000, guid: 1ef9c481196226b4fad32d2a47e08a71, type: 2}
