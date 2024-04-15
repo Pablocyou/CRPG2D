@@ -13,16 +13,11 @@ public class IsometricPlayerMovementController : MonoBehaviour
     public GameObject ThoughtsGameObj;
     Rigidbody2D rb;
 
-
     private Color originalColor;
     private Vector2 lastDirection = Vector2.right; // Default direction
     public float dashSpeed = 30f;
     public float dashDuration = 0.7f; // Duration of the dash in seconds
     private bool isDashing = false;
-
-
-
-
 
     private void Awake()
     {
@@ -62,8 +57,6 @@ public class IsometricPlayerMovementController : MonoBehaviour
             StartCoroutine(Dash(lastDirection));
         }
     }
-
-
 
     IEnumerator Dash(Vector2 direction)
     {
